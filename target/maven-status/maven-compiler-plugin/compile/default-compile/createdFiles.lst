@@ -1,0 +1,10 @@
+persistencia\EMF.class
+negocio\Calendario.class
+persistencia\IngredienteDao.class
+persistencia\IngredienteDaoImpl.class
+servlets\ListadoIngredientes.class
+modelo\JpaConnectionTest.class
+negocio\CalendarioImpl.class
+modelo\Categoria.class
+modelo\Ingrediente.class
+persistencia\CategoriaDao.class
